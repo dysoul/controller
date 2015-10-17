@@ -1,0 +1,17 @@
+<package>
+  <description brief="kcop_control">
+
+     kcop_control
+
+  </description>
+  <author>dy</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/kcop_control</url>
+  <depend package="geometry_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

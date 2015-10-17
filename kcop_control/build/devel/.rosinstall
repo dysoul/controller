@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dyoul/catkin_ws/src/kcop_control/build/devel/setup.sh
